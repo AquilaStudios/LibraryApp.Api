@@ -1,0 +1,12 @@
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\bin\Debug\net6.0\LibraryApp.Models.deps.json
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\bin\Debug\net6.0\LibraryApp.Models.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\bin\Debug\net6.0\LibraryApp.Models.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\obj\Debug\net6.0\LibraryApp.Models.csproj.AssemblyReference.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\obj\Debug\net6.0\LibraryApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\obj\Debug\net6.0\LibraryApp.Models.AssemblyInfoInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\obj\Debug\net6.0\LibraryApp.Models.AssemblyInfo.cs
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\obj\Debug\net6.0\LibraryApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\obj\Debug\net6.0\LibraryApp.Models.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\obj\Debug\net6.0\refint\LibraryApp.Models.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\obj\Debug\net6.0\LibraryApp.Models.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Models\obj\Debug\net6.0\ref\LibraryApp.Models.dll

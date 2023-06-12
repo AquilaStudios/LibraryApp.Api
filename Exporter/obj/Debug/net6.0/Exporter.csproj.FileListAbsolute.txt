@@ -1,0 +1,15 @@
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\Exporter.csproj.AssemblyReference.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\Exporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\Exporter.AssemblyInfoInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\Exporter.AssemblyInfo.cs
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\Exporter.csproj.CoreCompileInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\bin\Debug\net6.0\Exporter.deps.json
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\bin\Debug\net6.0\Exporter.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\bin\Debug\net6.0\Exporter.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\bin\Debug\net6.0\LibraryApp.DataAccess.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\bin\Debug\net6.0\LibraryApp.DataAccess.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\Exporter.csproj.CopyComplete
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\Exporter.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\refint\Exporter.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\Exporter.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\Exporter\obj\Debug\net6.0\ref\Exporter.dll

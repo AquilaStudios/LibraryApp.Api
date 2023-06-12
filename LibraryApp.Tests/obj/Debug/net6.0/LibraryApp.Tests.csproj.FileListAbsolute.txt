@@ -1,0 +1,12 @@
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\bin\Debug\net6.0\LibraryApp.Tests.deps.json
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\bin\Debug\net6.0\LibraryApp.Tests.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\bin\Debug\net6.0\LibraryApp.Tests.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\obj\Debug\net6.0\LibraryApp.Tests.csproj.AssemblyReference.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\obj\Debug\net6.0\LibraryApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\obj\Debug\net6.0\LibraryApp.Tests.AssemblyInfoInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\obj\Debug\net6.0\LibraryApp.Tests.AssemblyInfo.cs
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\obj\Debug\net6.0\LibraryApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\obj\Debug\net6.0\LibraryApp.Tests.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\obj\Debug\net6.0\refint\LibraryApp.Tests.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\obj\Debug\net6.0\LibraryApp.Tests.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Tests\obj\Debug\net6.0\ref\LibraryApp.Tests.dll

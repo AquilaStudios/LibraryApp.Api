@@ -1,0 +1,15 @@
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\bin\Debug\net6.0\LibraryApp.Repositories.deps.json
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\bin\Debug\net6.0\LibraryApp.Repositories.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\bin\Debug\net6.0\LibraryApp.Repositories.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\bin\Debug\net6.0\LibraryApp.DataAccess.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\bin\Debug\net6.0\LibraryApp.DataAccess.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\LibraryApp.Repositories.csproj.AssemblyReference.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\LibraryApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\LibraryApp.Repositories.AssemblyInfoInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\LibraryApp.Repositories.AssemblyInfo.cs
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\LibraryApp.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\LibraryApp.Repositories.csproj.CopyComplete
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\LibraryApp.Repositories.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\refint\LibraryApp.Repositories.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\LibraryApp.Repositories.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Repositories\obj\Debug\net6.0\ref\LibraryApp.Repositories.dll

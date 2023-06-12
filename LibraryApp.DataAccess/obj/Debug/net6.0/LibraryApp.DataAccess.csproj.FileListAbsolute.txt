@@ -1,0 +1,12 @@
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\bin\Debug\net6.0\LibraryApp.DataAccess.deps.json
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\bin\Debug\net6.0\LibraryApp.DataAccess.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\bin\Debug\net6.0\LibraryApp.DataAccess.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.AssemblyInfo.cs
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\refint\LibraryApp.DataAccess.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\ref\LibraryApp.DataAccess.dll

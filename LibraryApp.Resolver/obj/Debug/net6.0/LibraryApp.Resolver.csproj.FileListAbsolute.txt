@@ -1,0 +1,17 @@
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\bin\Debug\net6.0\LibraryApp.Resolver.deps.json
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\bin\Debug\net6.0\LibraryApp.Resolver.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\bin\Debug\net6.0\LibraryApp.Resolver.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\bin\Debug\net6.0\LibraryApp.DataAccess.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\bin\Debug\net6.0\LibraryApp.Repositories.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\bin\Debug\net6.0\LibraryApp.Repositories.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\bin\Debug\net6.0\LibraryApp.DataAccess.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\LibraryApp.Resolver.csproj.AssemblyReference.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\LibraryApp.Resolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\LibraryApp.Resolver.AssemblyInfoInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\LibraryApp.Resolver.AssemblyInfo.cs
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\LibraryApp.Resolver.csproj.CoreCompileInputs.cache
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\LibraryApp.Resolver.csproj.CopyComplete
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\LibraryApp.Resolver.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\refint\LibraryApp.Resolver.dll
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\LibraryApp.Resolver.pdb
+C:\Users\p00336176\Source\Repos\LibraryApp\LibraryApp.Resolver\obj\Debug\net6.0\ref\LibraryApp.Resolver.dll

@@ -1,0 +1,523 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Api\\LibraryApp.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\Exporter\\Exporter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\Exporter\\Exporter.csproj",
+        "projectName": "Exporter",
+        "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\Exporter\\Exporter.csproj",
+        "packagesPath": "C:\\Users\\p00336176\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\Exporter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p00336176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Api\\LibraryApp.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Api\\LibraryApp.Api.csproj",
+        "projectName": "LibraryApp.Api",
+        "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Api\\LibraryApp.Api.csproj",
+        "packagesPath": "C:\\Users\\p00336176\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p00336176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\Exporter\\Exporter.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\Exporter\\Exporter.csproj"
+              },
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DomainLogic\\LibraryApp.DomainLogic.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DomainLogic\\LibraryApp.DomainLogic.csproj"
+              },
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\LibraryApp.Models.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\LibraryApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj",
+        "projectName": "LibraryApp.DataAccess",
+        "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\p00336176\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p00336176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DomainLogic\\LibraryApp.DomainLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DomainLogic\\LibraryApp.DomainLogic.csproj",
+        "projectName": "LibraryApp.DomainLogic",
+        "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DomainLogic\\LibraryApp.DomainLogic.csproj",
+        "packagesPath": "C:\\Users\\p00336176\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DomainLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p00336176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Mapper\\LibraryApp.Mapper.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Mapper\\LibraryApp.Mapper.csproj"
+              },
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\LibraryApp.Models.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\LibraryApp.Models.csproj"
+              },
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Repositories\\LibraryApp.Repositories.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Repositories\\LibraryApp.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Mapper\\LibraryApp.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Mapper\\LibraryApp.Mapper.csproj",
+        "projectName": "LibraryApp.Mapper",
+        "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Mapper\\LibraryApp.Mapper.csproj",
+        "packagesPath": "C:\\Users\\p00336176\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p00336176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj"
+              },
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\LibraryApp.Models.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\LibraryApp.Models.csproj"
+              },
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Repositories\\LibraryApp.Repositories.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Repositories\\LibraryApp.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\LibraryApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\LibraryApp.Models.csproj",
+        "projectName": "LibraryApp.Models",
+        "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\LibraryApp.Models.csproj",
+        "packagesPath": "C:\\Users\\p00336176\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p00336176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Repositories\\LibraryApp.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Repositories\\LibraryApp.Repositories.csproj",
+        "projectName": "LibraryApp.Repositories",
+        "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Repositories\\LibraryApp.Repositories.csproj",
+        "packagesPath": "C:\\Users\\p00336176\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p00336176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\p00336176\\Source\\Repos\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
